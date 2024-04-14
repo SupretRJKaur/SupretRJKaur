@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supret RJ Kaur</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-<img align="right" alt="coding" width="400" src= "![image](https://github.com/SupretRJKaur/SupretRJKaur/assets/148531788/cc346dff-729e-46c2-80d1-1d0cca9ac355)
-">
+<img align="right" alt="coding" width="400" src= "[![image](https://github.com/SupretRJKaur/SupretRJKaur/assets/148531788/cc346dff-729e-46c2-80d1-1d0cca9ac355)](https://kit8.net/illustrations/programming-coding/)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supretrjkaur&label=Profile%20views&color=0e75b6&style=flat" alt="supretrjkaur" /> </p>
 
