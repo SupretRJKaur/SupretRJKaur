@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supret RJ Kaur</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-<img align="right" alt="coding" width="400" src= "Screenshot 2024-04-14 181637.png">
+<img align="right" alt="coding" width="500" src= "Screenshot 2024-04-14 181637.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supretrjkaur&label=Profile%20views&color=0e75b6&style=flat" alt="supretrjkaur" /> </p>
 
