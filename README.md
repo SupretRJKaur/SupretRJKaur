@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supret RJ Kaur</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-<img align="right" alt="coding" width="400" src= "![image](https://github.com/SupretRJKaur/SupretRJKaur/assets/148531788/85bd0d9f-e168-4ade-b5bc-0613fd76f15d)
+<img align="right" alt="coding" width="400" src= "[![image](https://github.com/SupretRJKaur/SupretRJKaur/assets/148531788/85bd0d9f-e168-4ade-b5bc-0613fd76f15d)](https://www.google.com/search?q=female+programmer+in+front+of+computer+screen&sca_esv=c27bfc2d7e5ccc09&sca_upv=1&rlz=1C1CHBF_enIN1086IN1086&udm=2&biw=1536&bih=695&sxsrf=ACQVn0-cgBZpqOSpiwCcMDt592ho3Y_0_g%3A1713098481706&ei=8c4bZqnNKqbw4-EPkv2y6Ak&ved=0ahUKEwjpid6T3cGFAxUm-DgGHZK-DJ0Q4dUDCBA&uact=5&oq=female+programmer+in+front+of+computer+screen&gs_lp=Egxnd3Mtd2l6LXNlcnAiLWZlbWFsZSBwcm9ncmFtbWVyIGluIGZyb250IG9mIGNvbXB1dGVyIHNjcmVlbkiwRFCUBFiBQXACeACQAQCYAaQBoAG-JKoBBDAuMzW4AQPIAQD4AQGYAgOgAp0DwgIFEAAYgATCAgYQABgIGB7CAgQQABgewgIGEAAYBRgemAMAiAYBkgcDMC4zoAfbFQ&sclient=gws-wiz-serp#vhid=hUjokpwBDJT8TM&vssid=mosaic)
 ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supretrjkaur&label=Profile%20views&color=0e75b6&style=flat" alt="supretrjkaur" /> </p>
