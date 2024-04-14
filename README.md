@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=supretrjkaur&label=Profile%20views&color=0e75b6&style=flat" alt="supretrjkaur" /> </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=80&duration=6000&pause=5&color=D7D7D7&center=true&vCenter=true&random=false&width=1700&height=87&lines=Hi%F0%9F%91%8B;I'm+Supret+RJ+Kaur" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=80&duration=5000&pause=1&color=D7D7D7&center=true&vCenter=true&random=false&width=1700&height=87&lines=Hi%F0%9F%91%8B;I'm+Supret+RJ+Kaur" alt="Typing SVG" /></a>
 
 <h3 align="center">A passionate learner from India</h3>
 
