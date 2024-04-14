@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supret RJ Kaur</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-<img align="right" alt="coding" width="400" src= "https://pngtree.com/freebackground/female-programmer-in-front-of-computer-screens_2734159.html">
+<img align="right" alt="coding" width="400" src= "[https://pngtree.com/freebackground/female-programmer-in-front-of-computer-screens_2734159.html](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZsSVtLH84rNahFizJtnIq4qyHwc-IyWpj9jnfkqQDZg&s)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supretrjkaur&label=Profile%20views&color=0e75b6&style=flat" alt="supretrjkaur" /> </p>
 
