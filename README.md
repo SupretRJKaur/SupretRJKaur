@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Supret RJ Kaur</h1>
 <h3 align="center">A passionate learner from India</h3>
 
-<img align="right" alt="coding" width="400" src= "[[https://pngtree.com/freebackground/female-programmer-in-front-of-computer-screens_2734159.html](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZsSVtLH84rNahFizJtnIq4qyHwc-IyWpj9jnfkqQDZg&s)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpikbest.com%2Fbackgrounds%2Fcomputer-screen-female-programmer-in-front-of-screens_9484524.html&psig=AOvVaw2ly_MyiS4rhQma5eNMWKhT&ust=1713185501736000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjcgbzfwYUDFQAAAAAdAAAAABAE)">
+<img align="right" alt="coding" width="400" src= "![image](https://github.com/SupretRJKaur/SupretRJKaur/assets/148531788/85bd0d9f-e168-4ade-b5bc-0613fd76f15d)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supretrjkaur&label=Profile%20views&color=0e75b6&style=flat" alt="supretrjkaur" /> </p>
 
