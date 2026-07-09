@@ -2,6 +2,8 @@
 
 <img align="right" alt="coding" width="500" src= "Screenshot 2024-04-14 181637.png">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=supretrjkaur&label=Profile%20views&color=0e75b6&style=flat" alt="supretrjkaur" /> </p>
+
 # 💫 About Me:
 <br>🌱 Currently learning Node.js, C++<br>📫 How to reach me supreet01995@gmail.com
 
@@ -16,7 +18,3 @@
 ![](https://streak-stats.demolab.com/?user=SupretRJKaur&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SupretRJKaur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=SupretRJKaur&icon=9&color=10)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
