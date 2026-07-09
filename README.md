@@ -1,7 +1,3 @@
-# 💫 About Me:
-<br>🌱 Currently learning Node.js, C++<br>📫 How to reach me supreet01995@gmail.com
-
-
 <h3 align="center">A passionate learner from India</h3>
 
 <img align="right" alt="coding" width="500" src= "Screenshot 2024-04-14 181637.png">
