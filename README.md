@@ -1,3 +1,6 @@
+### Hi there! 👋
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Waving Hand" width="50" height="50">
+
 <h3 align="center">A passionate learner from India</h3>
 
 <img align="right" alt="coding" width="500" src= "Screenshot 2024-04-14 181637.png">
